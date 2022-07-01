@@ -30,7 +30,7 @@ print ("<|--------------------------------------------------------------|>")
 print ("#----------------------------------------------------------------#")
 
 enter = input ("\n [#] Tekan enter untuk melanjutkan...\n")
-ttg = open("lib/READMIE.txt", "r")
+ttg = open("READMIE.txt", "r")
 print(ttg.read())
 
 try:
